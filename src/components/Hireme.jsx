@@ -1,7 +1,7 @@
 import React from "react";
 
 const Hireme = () => {
-  return <div>Hireme</div>;
+  return <div></div>;
 };
 
 export default Hireme;
