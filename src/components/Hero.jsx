@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   const social_media = [
-    
+    "mail",
     "logo-github",
     "logo-linkedin"];
   return <section
