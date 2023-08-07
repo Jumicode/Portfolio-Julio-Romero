@@ -1,0 +1,12 @@
+{
+    "hello": "¡Hola!",
+    "name": "Mi nombre es Julio Romero",
+    "developer": "Desarrollador Front-end",
+    "contact": "Contáctame",
+  "aboutTitle": "Acerca de <span class='text-cyan-600'>Mí</span>",
+  "aboutIntro": "Mi introducción",
+  "skillsTitle": "Mis <span class='text-cyan-600'>Habilidades</span>",
+  "skillsKnowledge": "Mi conocimiento",
+  "downloadCV": "Descargar CV"
+  
+  }
