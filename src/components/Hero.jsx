@@ -3,9 +3,9 @@ import React from "react";
 const Hero = () => {
   const social_media = [
     { icon: "mail", link: "https://mail.google.com/mail/?view=cm&to=jromeroacive@gmail.com" },
-    { icon: "logo-github", link: "https://github.com/tuusuario" },
-    { icon: "logo-linkedin", link: "https://www.linkedin.com/in/tuusuario" },
-    { icon: "logo-reddit", link: "https://www.reddit.com/user/tuusuario" }
+    { icon: "logo-github", link: "https://github.com/Jumicode" },
+    { icon: "logo-linkedin", link: "https://www.linkedin.com/in/julio-romero-582143242/" },
+    { icon: "logo-reddit", link: "https://www.reddit.com/user/Jumi18" }
   ];
 
   return (
