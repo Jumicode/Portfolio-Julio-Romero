@@ -32,9 +32,11 @@ const Hero = () => {
               </a>
             ))}
           </div>
-          <a href="./src/assets/Code_a_program.pdf" download>
+          <a href="./src/assets/CV_Julio_Romero.pdf" download>
+          
             <button className="btn-primary mt-10 bg-cyan-600 p-5 rounded-xl">Download CV</button>
           </a>
+          
         </div>
       </div>
     </section>
