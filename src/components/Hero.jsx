@@ -32,7 +32,7 @@ const Hero = () => {
               </a>
             ))}
           </div>
-          <a href="./src/assets/CV_Julio_Romero.pdf" download>
+          <a href="/dist/assets/CV_Julio_Romero.pdf" download>
           
             <button className="btn-primary mt-10 bg-cyan-600 p-5 rounded-xl">Download CV</button>
           </a>
