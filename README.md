@@ -1,7 +1,5 @@
-# initial_react_portfolio
+# My portfolio
 
-npm i
-npm run dev
+Personal portfolio made with react + tailwilnd where you can see my projects, a description about me and my forms of contact
 
-code a program
-happy coding :)
+Template by code a program
