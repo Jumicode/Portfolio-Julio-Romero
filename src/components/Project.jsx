@@ -25,7 +25,7 @@ const Project = () => {
     {
       img: project3,
       name: "Portfolio",
-      github_link: "https://github.com/Jumicode/Julio-Portfolio",
+      github_link: "https://github.com/Jumicode/Portfolio-Julio-Romero",
       
     },
    
